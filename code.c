@@ -1,6 +1,4 @@
-include <iostream>
-using namespace std;
 int main() {
-  cout<<"Hello"<<endl;
+  printf("asd\n");
   return 0;
 }
